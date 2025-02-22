@@ -1,0 +1,35 @@
+{
+  "extends": ["airbnb", "prettier", "plugin:node/recommended"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "spaced-comment": "off",
+    "new-cap": [
+      "error",
+      { "capIsNew": false, "newIsCapExceptionPattern": "\\.model$" }
+    ],
+    "no-console": "off",
+    "no-const-assign": "error",
+    "consistent-return": "off",
+    "func-names": "off",
+    "object-shorthand": "off",
+    "no-process-exit": "off",
+    "no-param-reassign": "off",
+    "no-return-await": "off",
+    "no-underscore-dangle": "off",
+    "class-methods-use-this": "off",
+    "prefer-destructuring": ["error", { "object": true, "array": false }],
+    "no-unused-vars": ["error", { "argsIgnorePattern": "req|res|next|val" }],
+    "node/no-unpublished-require": [
+      "error",
+      { "allowModules": ["jest-chain", "supertest"] }
+    ],
+    "node/no-unsupported-features/es-syntax": "off"
+  },
+  "env": {
+    "jest": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020
+  }
+}

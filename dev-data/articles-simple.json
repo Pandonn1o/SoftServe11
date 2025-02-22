@@ -1,0 +1,69 @@
+[
+  {
+    "title": "The Forest Hiker",
+    "description": "Breathtaking hike through the Canadian Banff National Park",
+    "theme": "trips",
+
+    "comments": [
+      {
+        "evaluation": "like",
+        "content": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et",
+        "lastChangedAt": "2022-03-15,15:00"
+      }
+    ]
+  },
+  {
+    "title": "The Coastal Explorer",
+    "description": "Discover stunning coastal landscapes on a hiking adventure",
+    "theme": "trips",
+    "comments": [
+      {
+        "evaluation": "like",
+        "content": "This hike was truly amazing, I would recommend it to anyone!",
+        "lastChangedAt": "2022-03-15,19:00"
+      },
+      {
+        "evaluation": "dislike",
+        "content": "The views were breathtaking, definitely a hike to remember.",
+        "rating": 3,
+        "lastChangedAt": "2022-03-15,18:00"
+      }
+    ]
+  },
+  {
+    "title": "The Mountain Trekker",
+    "theme": "trips",
+    "description": "Experience the rugged beauty of the Rocky Mountains on an unforgettable hike",
+    "comments": [
+      {
+        "content": "This was one of the toughest hikes I've ever done, but also the most rewarding!",
+        "lastChangedAt": "2022-05-01,13:30"
+      },
+      {
+        "content": "The scenery was incredible, I felt like I was on top of the world.",
+        "lastChangedAt": "2022-05-05,10:00"
+      }
+    ]
+  },
+  {
+    "title": "The City Mall",
+    "theme": "shopping",
+    "description": "The best shopping center ever. Enjojed the service. Lorem ipsum",
+    "comments": [
+      {
+        "evaluation": "dislike",
+        "content": "This is the worst place.",
+        "lastChangedAt": "2022-05-01,13:30"
+      },
+      {
+        "evaluation": "like",
+        "content": "That's correct.",
+        "lastChangedAt": "2022-05-01,13:30"
+      },
+      {
+        "content": "Convenient place. Go there every weekend, everything is correct",
+        "lastChangedAt": "2022-05-05,10:00"
+      }
+    ]
+  }
+]

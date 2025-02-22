@@ -1,0 +1,135 @@
+[
+  {
+    "title": "The Forest Hiker",
+    "description": "Breathtaking hike through the Canadian Banff National Park",
+    "theme": "trips",
+    "viewsCount": 3,
+    "comments": [
+      {
+        "evaluation": "like",
+        "content": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et",
+        "lastChangedAt": "2022-03-15,15:00"
+      }
+    ]
+  },
+  {
+    "title": "The Coastal Explorer",
+    "description": "Discover stunning coastal landscapes on a hiking adventure",
+    "theme": "trips",
+    "viewsCount": 4,
+    "comments": [
+      {
+        "evaluation": "like",
+        "content": "This hike was truly amazing, I would recommend it to anyone!",
+        "lastChangedAt": "2022-03-15,19:00"
+      },
+      {
+        "evaluation": "dislike",
+        "content": "The views were breathtaking, definitely a hike to remember.",
+        "lastChangedAt": "2022-03-15,18:00"
+      }
+    ]
+  },
+  {
+    "title": "The Mountain Trekker",
+    "theme": "trips",
+    "description": "Experience the rugged beauty of the Rocky Mountains on an unforgettable hike",
+    "viewsCount": 2,
+    "comments": [
+      {
+        "content": "This was one of the toughest hikes I've ever done, but also the most rewarding!",
+        "lastChangedAt": "2022-05-01,13:30"
+      },
+      {
+        "content": "The scenery was incredible, I felt like I was on top of the world.",
+        "lastChangedAt": "2022-05-05,10:00"
+      }
+    ]
+  },
+  {
+    "title": "The City Mall",
+    "theme": "shopping",
+    "description": "The best shopping center ever. Enjojed the service. Lorem ipsum",
+    "viewsCount": 8,
+    "comments": [
+      {
+        "evaluation": "dislike",
+        "content": "This is the worst place.",
+        "lastChangedAt": "2022-05-01,13:30"
+      },
+      {
+        "content": "Convenient place. Go there every weekend, everything is correct",
+        "lastChangedAt": "2022-05-05,10:00"
+      }
+    ]
+  },
+  {
+    "title": "The Beach Resort",
+    "theme": "trips",
+    "description": "A paradise-like beach resort with crystal-clear waters and white sandy beaches. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "viewsCount": 0,
+    "comments": [
+      {
+        "evaluation": "like",
+        "content": "I absolutely loved my stay here! The view was breathtaking and the staff were amazing.",
+        "lastChangedAt": "2022-08-01,09:30"
+      },
+      {
+        "evaluation": "like",
+        "content": "Highly recommend this resort! The amenities were top-notch and the beach was pristine.",
+        "lastChangedAt": "2022-08-05,12:00"
+      },
+      {
+        "evaluation": "dislike",
+        "content": "I had a terrible experience at this resort. The staff were rude and unhelpful, and the room was dirty.",
+        "lastChangedAt": "2022-08-10,15:45"
+      }
+    ]
+  },
+  {
+    "title": "The Fine Dining Experience",
+    "theme": "food",
+    "description": "An unforgettable dining experience with gourmet cuisine and impeccable service. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "viewsCount": 1,
+    "comments": [
+      {
+        "evaluation": "like",
+        "content": "One of the best meals I've ever had! The food was delicious and the atmosphere was lovely.",
+        "lastChangedAt": "2022-09-01,20:00"
+      },
+      {
+        "evaluation": "like",
+        "content": "Highly recommend this restaurant! The service was exceptional and the wine list was extensive.",
+        "lastChangedAt": "2022-09-05,18:30"
+      },
+      {
+        "evaluation": "dislike",
+        "content": "I was very disappointed with my experience here. The food was overpriced and not very tasty.",
+        "lastChangedAt": "2022-09-10,22:15"
+      }
+    ]
+  },
+  {
+    "title": "The Art Museum",
+    "theme": "art",
+    "description": "A stunning art museum featuring a diverse collection of works from around the world. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "viewsCount": 2,
+    "comments": [
+      {
+        "evaluation": "like",
+        "content": "This museum is a must-visit for any art lover! The exhibits were amazing and the staff were knowledgeable.",
+        "lastChangedAt": "2022-10-01,11:00"
+      },
+      {
+        "evaluation": "like",
+        "content": "I could hav7e spent all day here! The collection was impressive and the architecture of the building was beautiful.",
+        "lastChangedAt": "2022-10-05,14:30"
+      },
+      {
+        "evaluation": "dislike",
+        "content": "I was disappointed with the museum's lack of diversity in their collection. They need to include more works by underrepresented artists.",
+        "lastChangedAt": "2022-10-10,16:45"
+      }
+    ]
+  }
+]
