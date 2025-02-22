@@ -1,7 +1,5 @@
 name: GitHub Classroom Workflow
-
-on: [push]
-
+on: [push, pull_request]
 permissions:
   checks: write
   actions: read
@@ -13,4 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Install libssl1.1
+        run: |
+          sudo add-apt-repository ppa:rael-gc/rvm -y
+          sudo apt update
+          sudo apt install libssl1.1 -y
       - uses: education/autograding@v1
